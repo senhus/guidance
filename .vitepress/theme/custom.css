@@ -1,0 +1,29 @@
+.centered-image {
+    width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mobile-screenshot {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .important-note {
+    border: 1px solid #444;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #333;
+    border-left: 4px solid #ff6600;
+    color: #fff;
+  }
+
+  :root {
+    --vp-c-brand-1: #0170b9;
+  }
+  
